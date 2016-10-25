@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorSamples", "CastleWindsorSamples\CastleWindsorSamples.csproj", "{2F0EB7EC-E966-4E3E-B6C9-CCAD64D28FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorSamples.Collection", "CastleWindsorSamples.Collection\CastleWindsorSamples.Collection.csproj", "{6694790E-424A-4765-9F8A-3BA9880E9E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorSamples.IntegrationTests", "CastleWindsorSamples.IntegrationTests\CastleWindsorSamples.IntegrationTests.csproj", "{B8EDD181-DA30-410F-8F18-4E7463A85ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorSamples.Infrastructure", "CastleWindsorSamples.Infrastructure\CastleWindsorSamples.Infrastructure.csproj", "{5C251BE9-03D8-4271-B900-2D8EC50C3549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorSamples.SomeDependencies", "CastleWindsorSamples.SomeDependencies\CastleWindsorSamples.SomeDependencies.csproj", "{DF9F300E-248B-44D1-AC6A-397E2FA660EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0EB7EC-E966-4E3E-B6C9-CCAD64D28FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0EB7EC-E966-4E3E-B6C9-CCAD64D28FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0EB7EC-E966-4E3E-B6C9-CCAD64D28FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0EB7EC-E966-4E3E-B6C9-CCAD64D28FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6694790E-424A-4765-9F8A-3BA9880E9E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6694790E-424A-4765-9F8A-3BA9880E9E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6694790E-424A-4765-9F8A-3BA9880E9E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6694790E-424A-4765-9F8A-3BA9880E9E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EDD181-DA30-410F-8F18-4E7463A85ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EDD181-DA30-410F-8F18-4E7463A85ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EDD181-DA30-410F-8F18-4E7463A85ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EDD181-DA30-410F-8F18-4E7463A85ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C251BE9-03D8-4271-B900-2D8EC50C3549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C251BE9-03D8-4271-B900-2D8EC50C3549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C251BE9-03D8-4271-B900-2D8EC50C3549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C251BE9-03D8-4271-B900-2D8EC50C3549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9F300E-248B-44D1-AC6A-397E2FA660EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9F300E-248B-44D1-AC6A-397E2FA660EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9F300E-248B-44D1-AC6A-397E2FA660EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9F300E-248B-44D1-AC6A-397E2FA660EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
